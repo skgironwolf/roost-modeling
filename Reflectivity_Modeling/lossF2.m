@@ -1,3 +1,5 @@
+
+%first working version of loss function
 function [ loss ] = lossF2( theta,X2,Y2,dbZ)
 %UNTITLED2 Summary of this function goes here
 %   Detailed explanation goes here

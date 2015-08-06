@@ -1,3 +1,4 @@
+%minimizer for new loss functions
 function newLF()
 
 label_file = 'labels-KDOX-2011.csv';
